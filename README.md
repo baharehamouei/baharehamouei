@@ -9,7 +9,7 @@ Excel · SQL · Power BI
 ## 📊 Projects
 - [Olist E-Commerce Analysis](https://github.com/baharehamouei/olist-ecommerce-analysis)— Sales & delivery 
   performance of 99K orders using SQL + Power BI
-- [Spotify Music Analysis](link-to-your-repo) — Coming soon
+- [Spotify Music Analysis](https://github.com/baharehamouei/spotify-music-analysis) — Coming soon
 
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/bahareh-amouei/)
