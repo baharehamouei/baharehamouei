@@ -7,7 +7,7 @@ data-driven insights.
 Excel · SQL · Power BI
 
 ## 📊 Projects
-- [Olist E-Commerce Analysis](link-to-your-repo) — Sales & delivery 
+- [Olist E-Commerce Analysis]([link-to-your-repo](https://github.com/baharehamouei/olist-ecommerce-analysis)) — Sales & delivery 
   performance of 99K orders using SQL + Power BI
 - [Spotify Music Analysis](link-to-your-repo) — Coming soon
 
