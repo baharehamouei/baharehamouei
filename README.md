@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Bahareh 👋
+Master's student in Human-Computer Interaction at Bauhaus-Universität Weimar, 
+Germany. Transitioning into data analytics — combining UX thinking with 
+data-driven insights.
 
-<!--
-**baharehamouei/baharehamouei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tools
+Excel · SQL · Power BI
 
-Here are some ideas to get you started:
+## 📊 Projects
+- [Olist E-Commerce Analysis](link-to-your-repo) — Sales & delivery 
+  performance of 99K orders using SQL + Power BI
+- [Spotify Music Analysis](link-to-your-repo) — Coming soon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/bahareh-amouei/)
